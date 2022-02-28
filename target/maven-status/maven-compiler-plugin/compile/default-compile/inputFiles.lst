@@ -1,2 +1,10 @@
-C:\Users\adina\IdeaProjects\mywebapp\src\main\java\ru\geekbrains\HelloServlet.java
-C:\Users\adina\IdeaProjects\mywebapp\src\main\java\ru\geekbrains\Product.java
+D:\java_spring_1\Lesson_7\work\geekspring_boot_empty_start\src\main\java\com\geekbrains\geekspring\repositories\StudentsRepository.java
+D:\java_spring_1\Lesson_7\work\geekspring_boot_empty_start\src\main\java\com\geekbrains\geekspring\config\AppConfig.java
+D:\java_spring_1\Lesson_7\work\geekspring_boot_empty_start\src\main\java\com\geekbrains\geekspring\entities\Student.java
+D:\java_spring_1\Lesson_7\work\geekspring_boot_empty_start\src\main\java\com\geekbrains\geekspring\GeekspringApplication.java
+D:\java_spring_1\Lesson_7\work\geekspring_boot_empty_start\src\main\java\com\geekbrains\geekspring\controllers\MainController.java
+D:\java_spring_1\Lesson_7\work\geekspring_boot_empty_start\src\main\java\com\geekbrains\geekspring\services\StudentsService.java
+D:\java_spring_1\Lesson_7\work\geekspring_boot_empty_start\src\main\java\com\geekbrains\geekspring\controllers\StudentsController.java
+D:\java_spring_1\Lesson_7\work\geekspring_boot_empty_start\src\main\java\com\geekbrains\geekspring\entities\Course.java
+D:\java_spring_1\Lesson_7\work\geekspring_boot_empty_start\src\main\java\com\geekbrains\geekspring\services\CoursesService.java
+D:\java_spring_1\Lesson_7\work\geekspring_boot_empty_start\src\main\java\com\geekbrains\geekspring\repositories\CoursesRepository.java

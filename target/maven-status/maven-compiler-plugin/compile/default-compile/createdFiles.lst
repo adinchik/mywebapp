@@ -1,2 +1,10 @@
-ru\geekbrains\Product.class
-ru\geekbrains\HelloServlet.class
+com\geekbrains\geekspring\entities\Student.class
+com\geekbrains\geekspring\repositories\CoursesRepository.class
+com\geekbrains\geekspring\controllers\StudentsController.class
+com\geekbrains\geekspring\services\CoursesService.class
+com\geekbrains\geekspring\entities\Course.class
+com\geekbrains\geekspring\services\StudentsService.class
+com\geekbrains\geekspring\GeekspringApplication.class
+com\geekbrains\geekspring\repositories\StudentsRepository.class
+com\geekbrains\geekspring\controllers\MainController.class
+com\geekbrains\geekspring\config\AppConfig.class
