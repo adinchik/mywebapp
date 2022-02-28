@@ -37,6 +37,11 @@ public class StudentsService {
     }
 
     public void removeById(Long id) {
+        Student student = studentsRepository.findOneById(id);
+        List<Course> courses = coursesService.getAllCoursesList();
+        for (Course course: courses) {
+            course.getStudents().remove(student);
+        }
         studentsRepository.deleteById(id);
     }
 
