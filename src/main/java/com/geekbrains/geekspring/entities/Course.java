@@ -25,7 +25,7 @@ public class Course {
             joinColumns=@JoinColumn(name="course_id"),
             inverseJoinColumns=@JoinColumn(name="student_id")
     )
-    @Cascade({org.hibernate.annotations.CascadeType.DELETE, org.hibernate.annotations.CascadeType.DETACH})
+    @Cascade({org.hibernate.annotations.CascadeType.DETACH})
     private List<Student> students;
 
     public Long getId() {
@@ -53,5 +53,10 @@ public class Course {
     }
 
     public Course() {
+    }
+
+    @Override
+    public String toString() {
+        return title;
     }
 }
